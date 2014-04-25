@@ -1,0 +1,13 @@
+{
+  "name": "style-reset",
+  "repo": "isner/style-reset",
+  "description": "A simple Eric Meyer css reset",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "style-reset.css"
+  ]
+}
